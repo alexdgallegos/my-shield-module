@@ -1,5 +1,0 @@
-config SHIELD_BISMUTH_LEFT
-    def_bool $(shields_list_contains,bismuth_left)
-
-config SHIELD_BISMUTH_RIGHT
-    def_bool $(shields_list_contains,bismuth_right)
