@@ -1,4 +1,4 @@
-#include "Bismuth.dtsi"
+#include "bismuth.dtsi"
 
 &kscan0 {
     col-gpios
